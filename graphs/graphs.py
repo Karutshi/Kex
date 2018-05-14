@@ -4,7 +4,7 @@ import numpy as np
 from itertools import groupby
 import re
 
-number_of_subjects = 11
+number_of_subjects = 12
 videos_meta = [
      # Group 1
      [('sparse_11', 1),  ('sparse_32', 11), ('sparse_22_1', 5), ('sparse_00_1', 13), ('sparse_00_5', 33), ('sparse_00_9', 37),  
